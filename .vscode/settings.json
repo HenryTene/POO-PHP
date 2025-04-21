@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#414855",
+        "tab.inactiveBackground": "#393D44",
+        "tab.inactiveForeground": "#f2f3f4",
+        "terminal.background": "#00000000"
+    },
+    "cSpell.words": [
+        "direccion",
+        "henrytenet",
+        "Instanciar",
+        "Linkedin"
+    ]
+}
