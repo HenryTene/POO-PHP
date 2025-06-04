@@ -9,7 +9,7 @@ class User{
     public $email;
     public $code;
 
-    //Constructor de la clase User
+    // Constructor de la clase User
     public function __construct(string $nombre,string $lastname,string $department,string $email, int $code)
     {
         $this->name = $nombre;
