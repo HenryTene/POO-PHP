@@ -20,7 +20,7 @@ class User
     //Constructor de la clase User
     public function __construct($nombre, $lastname, $department, $email, $code)
     {
-        self::$name = $nombre;// Se accede a la variable estatica con self::
+        self::$name = $nombre;// Se accede a la variable estática con self::
         // $this->name = $nombre; // Se accede a la variable no estatica con $this->
         $this->lastname = $lastname;
         $this->department = $department;
